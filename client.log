@@ -1,0 +1,15 @@
+02:25:13 [INFO] sedning: who
+02:25:13 [INFO] received: Tikhoniuk Eduard #30
+Number set synchroniztion
+02:25:13 [INFO] sedning: num 1
+02:25:13 [INFO] received: OK
+02:25:13 [INFO] sedning: num 99
+02:25:13 [INFO] received: OK
+02:25:13 [INFO] sedning: num 9999
+02:25:13 [INFO] received: BAD
+02:25:13 [INFO] sedning: reverse
+02:25:13 [INFO] received: reverse
+02:25:13 [INFO] received: 2
+02:25:13 [INFO] received: 3
+02:25:13 [INFO] received: 4
+02:25:13 [INFO] received: end
